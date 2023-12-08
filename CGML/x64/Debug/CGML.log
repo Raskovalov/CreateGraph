@@ -1,0 +1,4 @@
+﻿  CGML.cpp
+E:\Work\project\MainProject\GitHab\CGML\CGML\CGML.cpp(10,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Work\project\MainProject\GitHab\CGML\CGML\CGML.cpp(94,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  CGML.vcxproj -> E:\Work\project\MainProject\GitHab\CGML\x64\Debug\CGML.exe
